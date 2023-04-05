@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 600 301" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-70.4956,-463.964)">
-        <g transform="matrix(0.484276,0,0,0.484276,7.2889,74.5261)">
+<svg width="100%" height="100%" viewBox="0 0 630 331" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-750,-76.9762)">
+        <g transform="matrix(0.484276,0,0,0.484276,450.958,3.87322)">
+            <g transform="matrix(1,0,0,1,556.553,-12.0541)">
+                <path d="M1361.86,380.078C1361.86,294.601 1292.47,225.204 1206.99,225.204L277.774,225.204C192.297,225.204 122.9,294.601 122.9,380.078L122.9,689.826C122.9,775.304 192.297,844.7 277.774,844.7L1206.99,844.7C1292.47,844.7 1361.86,775.304 1361.86,689.826L1361.86,380.078Z" style="fill:rgb(255,113,0);fill-opacity:0.54;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.484276,0,0,0.484276,435.958,-11.2471)">
+            <g transform="matrix(1,0,0,1,556.553,-12.0541)">
+                <path d="M1361.86,380.078C1361.86,294.601 1292.47,225.204 1206.99,225.204L277.774,225.204C192.297,225.204 122.9,294.601 122.9,380.078L122.9,689.826C122.9,775.304 192.297,844.7 277.774,844.7L1206.99,844.7C1292.47,844.7 1361.86,775.304 1361.86,689.826L1361.86,380.078Z" style="fill:rgb(255,113,0);fill-opacity:0.49;"/>
+            </g>
+        </g>
+        <g transform="matrix(0.484276,0,0,0.484276,686.793,-312.462)">
             <g transform="matrix(1,0,0,1,7.61817,578.963)">
                 <path d="M1361.86,380.078C1361.86,294.601 1292.47,225.204 1206.99,225.204L277.774,225.204C192.297,225.204 122.9,294.601 122.9,380.078L122.9,689.826C122.9,775.304 192.297,844.7 277.774,844.7L1206.99,844.7C1292.47,844.7 1361.86,775.304 1361.86,689.826L1361.86,380.078Z" style="fill:rgb(255,113,0);"/>
                 <g>
